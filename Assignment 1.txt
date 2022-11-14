@@ -1,0 +1,51 @@
+							# Assignment N0:1
+
+
+1.what is web service?
+
+A Web service is a method of communication between two electronic devices over a network. It is a software function provided at a network address over the Web with the service always-on as in the concept of utility computing. Many organizations use multiple software systems for management.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+2.Explain difference between website and webservice?
+
+Web Service								        Website
+1.A web service doesn’t have a user interface.                             1.A website has a user interface or GUI
+          
+										.
+
+41
+41/
+2.Web services are meant for other applications
+ to be interacted with over the internet.			          2. Websites are meant for use by humans.
+
+
+3.Web services are platform independent as they use open 
+protocols.						        3.Websites are cross-platform as they require tweaking to operate on 		
+//									different browsers, operating systems, etc.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+3.what is URL?
+
+
+
+A URL is a type of uniform resource identifier and is address of a resource on the World Wide Web and the protocol used to access it. It is used to indicate the location of a web resource to access the web pages. For example, to visit the javatpoint website, you will go to the URL www.javatpoint.com, which is the URL for the javatpoint website.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+4.What are the parts of URL?
+
+1.scheme
+2.Second level Domain
+3.Subdirectory
+4.Subdomain
+5.Toplevel domain
+-------------------------------------------------------------------------------------------------------------------------------------------------
+5.what is Domain?
+
+A domain is a network of computers and devices that are controlled by one set authority and have specific guidelines. More specifically, a domain is controlled by one particular company that has its own internet presence and IP address. The domain is labeled by its domain name, such as Webopedia or webopedia.com.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+6.what is hosting?
+
+Web hosting is a service that stores your website or web application and makes it easily accessible across different devices such as desktop, mobile, and tablets. Any web application or website is typically made of many files, such as images, videos, text, and code, that you need to store on special computers called servers. The web hosting service provider maintains, configures, and runs physical servers that you can rent for your files. Web site and web application hosting services also provide additional support, such as security, website backup, and website performance, which free up your time so that you can focus on the core functions of your website.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
